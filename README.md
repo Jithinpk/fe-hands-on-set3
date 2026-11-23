@@ -1,6 +1,6 @@
 # Question PR link
 
-1. [Room Booking](#) — _PR link TBD_
+1. [Room Booking](https://github.com/Jithinpk/fe-hands-on-set3/pull/1)
 2. Find a Time
 
 ---
